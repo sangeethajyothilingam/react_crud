@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "React.js"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Next.js"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "Tailwind.css"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "python"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "cart"
+    },
+    {
+      "id": "6",
+      "checked": false,
+      "item": "practice coding"
+    },
+    {
+      "id": "7",
+      "checked": false,
+      "item": "java"
+    },
+    {
+      "id": "8",
+      "checked": false,
+      "item": "react.js"
+    },
+    {
+      "id": "9",
+      "checked": false,
+      "item": "practice coding"
+    },
+    {
+      "id": "11",
+      "checked": true,
+      "item": "sun"
+    }
+  ]
+}
